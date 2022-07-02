@@ -1,5 +1,5 @@
-let name = prompt('Enter your name');
-let height = prompt('Enter your height');
-let country = prompt('Enter your country');
+let name = 'Oke Adenike';
+let height = '1.6m';
+let country = 'Nigeria';
 
 document.write(name + '<br>' + height + '<br>' + country);
